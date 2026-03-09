@@ -1,4 +1,3 @@
-Hello GitHub!
 # Software Engineering Workspace 💻
 
 This repository serves as a sandbox for my technical growth, containing documentation, algorithm practice, and workflow experiments.
